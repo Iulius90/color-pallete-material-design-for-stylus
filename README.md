@@ -9,7 +9,7 @@ They are named:
 
 > example: md-red-a400 will be #FF1744
 
-Replace **color** with: re,pink,purple, deep purple, indigo, blue, lightblue, cyan, teal, green, lightgreen, lime, yellow, amber, orange, deeporange, brown, grey or bluegrey.
+Replace **color** with: red, pink, purple, deep purple, indigo, blue, lightblue, cyan, teal, green, lightgreen, lime, yellow, amber, orange, deeporange, brown, grey or bluegrey.
 
 Replace *number* with: 50, 100, 200, 300, 400, 500, 600, 700, 800, 900 for regular colors.
 
