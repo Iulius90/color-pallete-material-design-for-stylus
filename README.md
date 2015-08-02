@@ -14,3 +14,5 @@ Replace **color** with: re,pink,purple, deep purple, indigo, blue, lightblue, cy
 Replace *number* with: 50, 100, 200, 300, 400, 500, 600, 700, 800, 900 for regular colors.
 
 Replace *number* with: 100, 200, 400, 700 for accent colors.
+
+More about this colors here: http://www.google.ro/design/spec/style/color.html#
